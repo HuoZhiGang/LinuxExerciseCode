@@ -49,9 +49,6 @@ int main()
 	//		printf("wait is f%d\n",status);
 	//	}
 
-
-
-
 		//pid_t ret = wait(NULL);
 		//if(ret == id)
 		//{
